@@ -8,10 +8,10 @@ Apredendo :)
 
 | Aulas | Resumos |
 |------|---------|
-|Gravando Alterações no repositório local |[Resumos]()
-
-'''
+|Aula 01|[Resumos]()
+|Aula 02|[Resumos]()
+```
 Git Init
-'''
+```
 ## 🔎 Referencias
 [Digital Innovation One]().
