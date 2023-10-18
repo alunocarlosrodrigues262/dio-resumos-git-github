@@ -1,4 +1,4 @@
-# DIO | Resumos Git e GitHub
+# DIO | Resumos Git e GitHub.
 Apredendo :)
 ## 📖 Documentação.
 - [Documentação Git](https://git.scm.com/doc)
